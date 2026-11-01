@@ -54,5 +54,3 @@ dice-wars/
 4. Start playing!
 
 ---
-
-**Author:** [Calin Baciu](https://github.com/calinbaciu93-design)
